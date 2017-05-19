@@ -94,7 +94,7 @@ var albumPicasso = {
 **/
 
 window.onload = function() {
-// Set current album to Jounior's for fun. lol!
+// Set current album to Junior's for fun. lol!
     setCurrentAlbum(albumKlegseth);
 // Create an array to hold all the album names and give function something to index.
     var albums = [albumPicasso, albumMarconi, albumKlegseth];
