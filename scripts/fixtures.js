@@ -1,16 +1,16 @@
 // Data
 var albumPicasso = {
-    title: 'The Colors',
-    artist: 'Pablo Picasso',
-    label: 'Cubism',
-    year: '1881',
-    albumArtUrl: 'assets/images/album_covers/01.png',
+    title: 'Guit With It',
+    artist: 'Junior Brown',
+    label: 'Curb Records',
+    year: '1993',
+    albumArtUrl: 'assets/images/album_covers/junior_brown_guit_with_it.jpg',
     songs: [
-       { title: 'Blue', duration: '4:26', audioUrl: 'assets/music/blue' },
-       { title: 'Green', duration: '3:14', audioUrl: 'assets/music/green' },
-       { title: 'Red', duration: '5:01', audioUrl: 'assets/music/red' },
-       { title: 'Pink', duration: '3:21', audioUrl: 'assets/music/pink' },
-       { title: 'Magenta', duration: '2:15', audioUrl: 'assets/music/magenta' }
+       { title: 'Highway Patrol', duration: '2:39', audioUrl: 'assets/music/highway_patrol' },
+       { title: 'Guit-Steel Blues', duration: '11:15', audioUrl: 'assets/music/guit-steel_blues' },
+       { title: 'Holding Pattern', duration: '3:31', audioUrl: 'assets/music/holding_pattern' },
+       { title: 'My Wife Thinks You\'re Dead', duration: '3:49', audioUrl: 'assets/music/my_wife' },
+       { title: 'Gotta Get up Every Morning', duration: '2:00', audioUrl: 'assets/music/gotta_get_up' }
     ]
 };
 
