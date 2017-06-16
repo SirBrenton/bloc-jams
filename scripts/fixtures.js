@@ -6,11 +6,11 @@ var albumPicasso = {
     year: '1993',
     albumArtUrl: 'assets/images/album_covers/junior_brown_guit_with_it.jpg',
     songs: [
-       { title: 'Highway Patrol', duration: '2:39', audioUrl: 'assets/music/highway_patrol' },
-       { title: 'Guit-Steel Blues', duration: '11:15', audioUrl: 'assets/music/guit-steel_blues' },
-       { title: 'Holding Pattern', duration: '3:31', audioUrl: 'assets/music/holding_pattern' },
-       { title: 'My Wife Thinks You\'re Dead', duration: '3:49', audioUrl: 'assets/music/my_wife' },
-       { title: 'Gotta Get up Every Morning', duration: '2:00', audioUrl: 'assets/music/gotta_get_up' }
+       { title: 'Highway Patrol', duration: 159, audioUrl: 'assets/music/highway_patrol' },
+       { title: 'Guit-Steel Blues', duration: 675, audioUrl: 'assets/music/guit-steel_blues' },
+       { title: 'Holding Pattern', duration: 121, audioUrl: 'assets/music/holding_pattern' },
+       { title: 'My Wife Thinks You\'re Dead', duration: 139, audioUrl: 'assets/music/my_wife' },
+       { title: 'Gotta Get up Every Morning', duration: 60, audioUrl: 'assets/music/gotta_get_up' }
     ]
 };
 
